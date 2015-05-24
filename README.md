@@ -5,7 +5,8 @@ and dependable.
 
 To get started with the adventure:
 
-* download or clone this repository
+    git clone https://github.com/chef-training/introduction_to_testing-repo.git
+    git checkout adventure
 
 Then once you do, I want you go meet up with Farmer Nathen in that directory. So go ahead and open a command-prompt/terminal window in the downloaded directory and then run the command:
 
