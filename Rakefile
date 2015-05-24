@@ -16,7 +16,7 @@ Here grab your first tool 'rspec'. Watch this video on how to use it!
 
 When you're ready run:
 
-    rake rspec_ready
+    chef exec rake rspec_ready
 
 """
   
@@ -41,7 +41,7 @@ farm running like clockwork.
 
 After you fix the text, when you're ready run:
 
-    rake fixed_test
+    chef exec rake fixed_test
 
 """
 
@@ -62,7 +62,7 @@ Take this tool 'kitchen'. Watch this video on how to use it!
 
 When you're ready run:
 
-    rake kitchen_ready
+    chef exec rake kitchen_ready
 
 """
 end
@@ -82,7 +82,7 @@ on the same language.
 
 After that test is passing, when you're ready run:
 
-    rake kitchen_tested
+    chef exec rake kitchen_tested
 
 """
 end
@@ -101,7 +101,7 @@ more responsibilties. And that is foodcritic! Watch a little about how its done.
 
 When you're ready run:
 
-    rake foodcritic_ready
+    chef exec rake foodcritic_ready
 
 """
 end
@@ -116,7 +116,7 @@ against community standards.
 
 After foodcritic is happy, come back inside and run:
 
-    rake all_finished
+    chef exec rake all_finished
 
   """
 end
@@ -130,7 +130,7 @@ here because you finsihed a lot.
 
 When you're ready, run:
 
-    rake ready_for_another
+    chef exec rake ready_for_another
 
 """
 end

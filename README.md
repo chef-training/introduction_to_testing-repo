@@ -9,4 +9,4 @@ To get started with the adventure:
 
 Then once you do, I want you go meet up with Farmer Nathen in that directory. So go ahead and open a command-prompt/terminal window in the downloaded directory and then run the command:
 
-    rake hello_nathen
+    chef exec rake hello_nathen
