@@ -1,0 +1,7 @@
+DEPENDENCIES
+  cowsay
+    path: .
+    metadata: true
+
+GRAPH
+  cowsay (0.1.0)
