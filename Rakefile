@@ -3,12 +3,12 @@
 # TODO: insert a loading joke with a half puts with a wait and a message 
 #   "Buffering"
 
-task :start do
+task :hello_nathen do
   puts """
 
-Welcome to the Farm! Howdy, I'm farmer Nathen! Boy you came just at the right
-moment because we have a cow that has gone got loose. I need you bring her in 
-her because her configuration is drifting.
+Howdy, welcome to the Farm! I heard you were coming. Boy you came just at the 
+right moment because we have a cow that has gone got loose. I need you bring 
+her in here because her configuration is drifting.
 
 Here grab your first tool 'rspec'. Watch this video on how to use it!
 
